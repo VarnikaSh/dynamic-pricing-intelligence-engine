@@ -50,7 +50,7 @@ DynamicPricingAI/
 - Deep learning demand prediction
 
 ## Live Demo
-[Click Here To Try the APP](
+[Click Here To Try the APP](https://dynamic-pricing-intelligence-engine-tu3xm66oxorvph8hfysawp.streamlit.app/)
 
 ## Author
 Varnika Shukla

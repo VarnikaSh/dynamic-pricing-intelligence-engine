@@ -1,0 +1,6 @@
+product_id,inventory,base_price,base_demand
+P1,500,50,120
+P2,300,80,90
+P3,700,35,200
+P4,250,120,60
+P5,400,65,100
